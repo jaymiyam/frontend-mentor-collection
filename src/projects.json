@@ -1,0 +1,51 @@
+[
+  {
+    "id": 1,
+    "name": "Scoot multi-page website",
+    "demoLink": "https://jaymiyam.com/frontend-mentor-scoot-multi-page-website/",
+    "repoLink": "https://github.com/jaymiyam/frontend-mentor-scoot-multi-page-website",
+    "imagePath": "thumbnail-scoot.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Easybank landing page",
+    "demoLink": "https://jaymiyam.com/frontend-mentor-easybank-landing-page/",
+    "repoLink": "https://github.com/jaymiyam/frontend-mentor-easybank-landing-page",
+    "imagePath": "thumbnail-easybank.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Bento grid layout",
+    "demoLink": "https://jaymiyam.com/frontend-mentor-bento-grid/",
+    "repoLink": "https://github.com/jaymiyam/frontend-mentor-bento-grid",
+    "imagePath": "thumbnail-bento-grid.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Loopstudio landing page",
+    "demoLink": "https://jaymiyam.com/frontend-mentor-loopstudios-landing-page/",
+    "repoLink": "https://github.com/jaymiyam/frontend-mentor-loopstudio-landing-page",
+    "imagePath": "thumbnail-loopstudio.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Manage landing page",
+    "demoLink": "https://jaymiyam.com/frontend-mentor-manage-landing-page/",
+    "repoLink": "https://github.com/jaymiyam/frontend-mentor-manage-landing-page",
+    "imagePath": "thumbnail-manage.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Social media dashboard",
+    "demoLink": "https://jaymiyam.com/frontend-mentor-social-media-dashboard/",
+    "repoLink": "https://github.com/jaymiyam/frontend-mentor-social-media-dashboard",
+    "imagePath": "thumbnail-social-dashboard.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Sunnyside agency page",
+    "demoLink": "https://jaymiyam.com/frontend-mentor-sunnyside-agency/",
+    "repoLink": "https://github.com/jaymiyam/frontend-mentor-sunnyside-agency",
+    "imagePath": "thumbnail-sunnyside-agency.jpg"
+  }
+]
