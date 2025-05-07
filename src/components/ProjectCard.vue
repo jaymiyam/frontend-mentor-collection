@@ -10,11 +10,13 @@
   >
     <article class="project-card">
       <div>
-        <img
-          :src="project.imagePath"
-          :alt="project.name"
-          class="project-image"
-        />
+        <a :href="project.demoLink" target="blank">
+          <img
+            :src="project.imagePath"
+            :alt="project.name"
+            class="project-image"
+          />
+        </a>
       </div>
       <div>
         <h2 class="project-name">{{ project.name }}</h2>
