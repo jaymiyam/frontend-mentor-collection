@@ -21,6 +21,13 @@
     "imagePath": "thumbnail-bento-grid.jpg"
   },
   {
+    "id": 8,
+    "name": "E-commerce product page",
+    "demoLink": "https://jaymiyam.com/frontend-mentor-ecommerce-product-page/",
+    "repoLink": "https://github.com/jaymiyam/frontend-mentor-ecommerce-product-page",
+    "imagePath": "thumbnail-ecommerce-product-page.webp"
+  },
+  {
     "id": 4,
     "name": "Loopstudio landing page",
     "demoLink": "https://jaymiyam.com/frontend-mentor-loopstudios-landing-page/",
